@@ -23,6 +23,16 @@
 5. Task List
     a. Users should be able to view task lists.
 
+# Screenshots
+Login Page
+![Alt text](image.png)
+
+Registration Page
+![Alt text](image-1.png)
+
+Dashboard Page
+![Alt text](image-2.png)
+
 # Technical Requirements used
 1. React Frameworks:  CRA
 2. Microservices Architecture.
