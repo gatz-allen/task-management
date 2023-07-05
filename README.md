@@ -22,8 +22,11 @@
     a. Users should be able to move the task to trash if it’s deleted.
 5. Task List
     a. Users should be able to view task lists.
-    
+
 # Technical Requirements used
 1. React Frameworks:  CRA
 2. Microservices Architecture.
 3. Code Management: Github repo for code checking.
+
+# Time spend started from scratch
+9 hours
