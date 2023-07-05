@@ -26,10 +26,8 @@
 # Screenshots
 Login Page
 ![Alt text](image.png)
-
 Registration Page
 ![Alt text](image-1.png)
-
 Dashboard Page
 ![Alt text](image-2.png)
 
