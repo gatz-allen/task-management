@@ -24,11 +24,11 @@
     a. Users should be able to view task lists.
 
 # Screenshots
-Login Page
+1. Login Page
 ![Alt text](image.png)
-Registration Page
+2. Registration Page
 ![Alt text](image-1.png)
-Dashboard Page
+3. Dashboard Page
 ![Alt text](image-2.png)
 
 # Technical Requirements used
